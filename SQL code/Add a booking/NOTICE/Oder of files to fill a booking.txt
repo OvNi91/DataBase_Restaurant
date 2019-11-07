@@ -1,0 +1,7 @@
+1) Fill_information_of_the_customer.sql
+2) Fill_the_date.sql
+3) Fill_Booking_FK.sql
+4) Meal_FK_INSERTED.sql
+5) Total_Price_Booking.sql
+6) Attribute_a_table.sql
+	
